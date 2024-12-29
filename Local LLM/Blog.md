@@ -28,7 +28,7 @@ This article will explore Ollama’s key features, supported models, and practic
 1.**Install Ollama** :
 https://ollama.com/download
 
-<img src="Pic1.png" style="zoom:50%;" />    
+<img src="pic1.png" style="zoom:50%;" />    
 
 
 
@@ -38,7 +38,7 @@ https://ollama.com/download
 
 2.**Initiate Ollama server and CLI in your local system** : 
 
-<img src="Pic2.png" style="zoom:25%;" /> <img src="Pic3.png" style="zoom:25%;" />
+<img src="pic2.png" style="zoom:25%;" /> <img src="Pic3.png" style="zoom:25%;" />
 
 
 
@@ -48,7 +48,7 @@ https://ollama.com/download
 
 3.**Now were set. Open Command Prompt to access Ollama** :
 
-<img src="Pic5.png" style="zoom:50%;" />
+<img src="pic5.png" style="zoom:50%;" />
 
 From ollama library pick any model of your choice.
 https://ollama.com/library
@@ -59,7 +59,7 @@ https://ollama.com/library
 
 **Example** : 
 
-<img src="Pic6.png" style="zoom:33%;" />
+<img src="pic6.png" style="zoom:33%;" />
 
 5.**Now run your model using run command and ask queries to model** :
 
@@ -67,7 +67,7 @@ https://ollama.com/library
 
 **Example** : 
 
-<img src="Pic8.png" style="zoom:33%;" />
+<img src="pic8.png" style="zoom:33%;" />
 
 6.**Integrate model**:
 
@@ -89,7 +89,7 @@ Now you have successfully integrated Ollama into your personal system and can be
 
 ``>> ollama list``
 
-<img src="Pic7.png" alt="s" style="zoom:50%;" />
+<img src="pic7.png" alt="s" style="zoom:50%;" />
 
 This command is used to obtain list of models installed.
 
@@ -155,7 +155,7 @@ Ollama is a lightweight, extensible framework for building and running language 
 ollama show llama3.2
 ```
 
-<img src="/Users/naveenkarthik/Desktop/Work/Blog/Pic9.png" style="zoom:50%;" />
+<img src="Pic9.png" style="zoom:50%;" />
 
 9.**List models on your computer** :
 
