@@ -4,8 +4,10 @@ Running large language models (LLMs) like ChatGPT and Claude usually involves se
 
 Using large language models (LLMs) on local systems is becoming increasingly popular thanks to their improved privacy, control, and reliability. Sometimes, these models can be even more accurate and faster than ChatGPT.
 
-Running Large Language Models (LLMs) locally involves deploying advanced AI models directly on personal or organizational hardware, rather than relying on cloud-based services. 
+Running Large Language Models (LLMs) locally involves deploying advanced AI models directly on personal or organizational hardware, rather than relying on cloud-based services.
+
 This approach offers several advantages:
+
 	•Data Privacy: Processing data in-house ensures that sensitive information remains confidential, mitigating risks associated with data transmission over the internet.
 	•Reduced Latency: Local execution eliminates the delays inherent in network communications, resulting in faster response times for AI applications.
 	•Customization and Control: Operating LLMs locally allows for tailored modifications to the models, enabling fine-tuning to meet specific needs without the constraints often imposed by third-party providers.
@@ -13,11 +15,11 @@ This approach offers several advantages:
 
 This week were gonna see about an Open-source tool known as Ollama
 
-Ollama 
+Ollama :
 
-Ollama is an open-source tool that runs large language models (LLMs) directly on a local machine. This makes it particularly appealing to AI developers, researchers, and businesses concerned with data control and privacy.
+-Ollama is an open-source tool that runs large language models (LLMs) directly on a local machine. This makes it particularly appealing to AI developers, researchers, and businesses concerned with data control and privacy.
 
-By running models locally, you maintain full data ownership and avoid the potential security risks associated with cloud storage. Offline AI tools like Ollama also help reduce latency and reliance on external servers, making them faster and more reliable.
+-By running models locally, you maintain full data ownership and avoid the potential security risks associated with cloud storage. Offline AI tools like Ollama also help reduce latency and reliance on external servers, making them faster and more reliable.
 
 This article will explore Ollama’s key features, supported models, and practical use cases. By the end, you’ll be able to determine if this LLM tool suits your AI-based projects and needs.
 
@@ -61,6 +63,10 @@ Coderes
 
 Now you have successfully integrated Ollama into your personal system and can be accessed locally without any API_KEY.
 
+7.List of models
+
+Pic7
+
 CLI Reference
 
 1.Create a model
@@ -95,6 +101,7 @@ $ ollama run llama3.2 "Summarize this file: $(cat README.md)"
 
 8.Show model information
 ollama show llama3.2
+pic9
 
 9.List models on your computer
 ollama list
